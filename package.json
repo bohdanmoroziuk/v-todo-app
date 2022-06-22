@@ -1,5 +1,6 @@
 {
   "name": "v-todo-app",
+  "description": "Task management application",
   "version": "0.1.0",
   "private": true,
   "scripts": {
